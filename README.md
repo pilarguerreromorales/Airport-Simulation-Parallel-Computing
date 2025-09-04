@@ -101,7 +101,7 @@ The project depends on the following main libraries (see requirements.txt for ex
 - pygame – simulation visualization
 
 ## Authors
-Pilar Guerrero
-James Hanuso
-Andrea Saxod
+- Pilar Guerrero
+- James Hanuso
+- Andrea Saxod
   
