@@ -1,6 +1,6 @@
-# ✈️ Airport-Simulation – Parallel Computing Project
+# Airport-Simulation – Parallel Computing Project
 
-## 📌 Project Overview
+## Project Overview
 This project simulates the **day-to-day operations of an international airport** on a small scale.  
 It models **flight scheduling, passenger behavior, security queues, gate assignments, and seat reservations** using **Python multithreading, concurrency, and databases**.  
 
@@ -31,7 +31,7 @@ Airport-Simulation/
 ```
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository**
 ```bash
