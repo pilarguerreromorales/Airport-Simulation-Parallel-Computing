@@ -87,7 +87,7 @@ passenger_num,passenger_id,preference,booked_flight,passed_security,arrival_time
 ```
 
 ### Visualization Example
-![Pygame Simulation](Screenshot%202025-09-04%20at%2010.46.26.png)
+![Pygame Simulation](Visualisation)
 
 ---
 
