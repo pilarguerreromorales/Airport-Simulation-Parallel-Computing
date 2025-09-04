@@ -17,16 +17,18 @@ This project was developed as part of the **Operating Systems & Parallel Computi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+```text
 Airport-Simulation/
 │
-├── AirportVisFINAL.py # Main simulation code
-├── requirements.txt # Python dependencies
-├── flight_report_*.csv # Example generated flight reports
-├── passengers_data.csv # Example passenger data (from SQL export)
+├── AirportVisFINAL.py                   # Main simulation code
+├── requirements.txt                     # Python dependencies
+├── flight_report_*.csv                  # Example generated flight reports
+├── passengers_data.csv                  # Example passenger dataset (SQL export)
 ├── Screenshot 2025-09-04 at 12.24.31.png # Example Pygame visualization
-└── README.md # Project documentation
-
+├── OPS&PC-Final report (1) (2).pdf       # Full project report
+└── README.md                            # Documentation
+```
 ---
 
 ## ⚙️ Installation
